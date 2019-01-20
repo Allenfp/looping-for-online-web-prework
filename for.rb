@@ -1,6 +1,6 @@
 
 def using_for
-	checklist = 1..5
+	checklist = 1..15
 	for check in checklist
 		puts "Wingardiu, Leviosa"
 	end
